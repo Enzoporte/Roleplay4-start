@@ -7,6 +7,7 @@ namespace RoleplayGame.Items
     {
         Magic = 1,
         Robes = 2,
+        HachaLibertad = 5,
     }
 
     /// <summary>
