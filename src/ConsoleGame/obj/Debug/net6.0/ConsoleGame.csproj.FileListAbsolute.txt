@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\ConsoleGame.deps.json
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\ConsoleGame.dll
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\ConsoleGame.pdb
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\RoleplayGameLibrary.dll
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\RoleplayGameLibrary.pdb
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.dll
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\refint\ConsoleGame.dll
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.pdb
+C:\Users\pablo\OneDrive\Escritorio\Programacion2\Roleplay4\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ref\ConsoleGame.dll
