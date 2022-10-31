@@ -7,8 +7,13 @@ namespace RoleplayGame.Items
     {
         Magic = 1,
         Robes = 2,
+        EscudoMedieval = 3,
+
         CascoVikingo = 4,
-        CapaInvisibilidad = 6
+        CapaInvisibilidad = 6,
+        Katana = 7,
+        KatanaDivina = 8,
+
     }
 
     /// <summary>
@@ -29,6 +34,9 @@ namespace RoleplayGame.Items
                 case ItemType.Robes: return new Robes();
                 case ItemType.CascoVikingo: return new CascoVikingo();
                 case ItemType.CapaInvisibilidad: return new CapaInvisibilidad();
+                case ItemType.EscudoMedieval: return new EscudoMedieval();
+                case ItemType.Katana: return new Katana();
+                case ItemType.KatanaDivina: return new KatanaDivina();
 
                 default: return null;
             }

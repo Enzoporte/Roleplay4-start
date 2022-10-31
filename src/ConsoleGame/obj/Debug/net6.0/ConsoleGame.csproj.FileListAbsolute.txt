@@ -1,0 +1,15 @@
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\ConsoleGame.deps.json
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\ConsoleGame.dll
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\ConsoleGame.pdb
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\RoleplayGameLibrary.dll
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\bin\Debug\net6.0\RoleplayGameLibrary.pdb
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.CopyComplete
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.dll
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\refint\ConsoleGame.dll
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ConsoleGame.pdb
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\ConsoleGame\obj\Debug\net6.0\ref\ConsoleGame.dll

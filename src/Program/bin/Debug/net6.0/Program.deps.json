@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Program/1.0.0": {
+        "dependencies": {
+          "ConsoleGame": "1.0.0",
+          "RoleplayGameLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Program.dll": {}
+        }
+      },
+      "ConsoleGame/1.0.0": {
+        "dependencies": {
+          "RoleplayGameLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleGame.dll": {}
+        }
+      },
+      "RoleplayGameLibrary/1.0.0": {
+        "runtime": {
+          "RoleplayGameLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RoleplayGameLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
