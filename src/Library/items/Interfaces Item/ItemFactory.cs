@@ -13,6 +13,8 @@ namespace RoleplayGame.Items
         CapaInvisibilidad = 6,
         Katana = 7,
         KatanaDivina = 8,
+        Palo = 9,
+        Coraza = 10,
 
     }
 
@@ -38,6 +40,8 @@ namespace RoleplayGame.Items
                 case ItemType.HachaLibertad: return new HachaLibertad();
                 case ItemType.Katana: return new Katana();
                 case ItemType.KatanaDivina: return new KatanaDivina();
+                case ItemType.Palo: return new Palo();
+                case ItemType.Coraza: return new Coraza();
 
                 default: return null;
             }

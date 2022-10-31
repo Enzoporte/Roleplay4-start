@@ -9,8 +9,6 @@ namespace Program
             IScenario scenario = new ConsoleScenario();
             scenario.Setup();
             scenario.Run();
-
-
         }
     }
 }
