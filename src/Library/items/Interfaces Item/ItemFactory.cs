@@ -8,6 +8,8 @@ namespace RoleplayGame.Items
         Magic = 1,
         Robes = 2,
         EscudoMedieval = 3,
+        Katana = 7,
+        KatanaDivina = 8,
 
     }
 
@@ -28,6 +30,10 @@ namespace RoleplayGame.Items
                 case ItemType.Magic: return new Magic();
                 case ItemType.Robes: return new Robes();
                 case ItemType.EscudoMedieval: return new EscudoMedieval();
+                case ItemType.Katana: return new Katana();
+                case ItemType.KatanaDivina: return new KatanaDivina();
+
+
 
                 default: return null;
             }
