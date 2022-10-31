@@ -1,0 +1,12 @@
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\bin\Debug\net6.0\RoleplayGameLibrary.deps.json
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\bin\Debug\net6.0\RoleplayGameLibrary.dll
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\bin\Debug\net6.0\RoleplayGameLibrary.pdb
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\RoleplayGameLibrary.dll
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\refint\RoleplayGameLibrary.dll
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\RoleplayGameLibrary.pdb
+C:\Users\enzoc\UCU\- Primer Año - Segundo Semestre\ProgramacionC#\Roleplay4-start\src\Library\obj\Debug\net6.0\ref\RoleplayGameLibrary.dll
