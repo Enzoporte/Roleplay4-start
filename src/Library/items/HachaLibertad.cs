@@ -1,17 +1,12 @@
 namespace RoleplayGame.Items
 {
-    public class HachaLibertad
+    public class HachaLibertad : IAttackItem
     {
-        string Name;
-        int AttackPower{ get; }
-
-        public HachaLibertad()
-        {
-            this.Name = "Libertad";
-            this.AttackPower = 30;
-        }
-
-        public int GetAttackPower
+        /// <summary>
+        /// El poder de ataque
+        /// </summary>
+        /// <value></value>
+        public int AttackPower
         {
             get
             {
@@ -20,9 +15,9 @@ namespace RoleplayGame.Items
             
         }
 
-        public string ToString()
+        public override string ToString()
         {
-            return "Hacha Libertad: Y se marcho y a su barco le llamo Libertad";
+            return "Hacha de la Libertad";
         }
 
     }
