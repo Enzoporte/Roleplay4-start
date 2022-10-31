@@ -53,7 +53,7 @@ Existe un escenario interactivo que viene con el juego llamado Escenario de Cons
 
 Cada equipo deberá crear un repo para el desarrollo de este juego. Todos los miembros del equipo deberán tener acceso al repo.
 
-## Parte I: Creación
+## ✔ Parte I: Creación
 
 Lo primero que este juego necesita son algunos elementos adicionales. Los elementos (vestimenta, armas, poderes) le agregan riqueza al juego. 
 
@@ -61,13 +61,13 @@ En un repo compartido por los integrantes del equipo, cada integrante deberá so
 
 Ver instrucciones para crear un issue [aquí](https://help.github.com/en/articles/creating-an-issue).
 
-## Parte II: Agregar elementos
+## ✔ Parte II: Agregar elementos
 
 Cada integrante del equipo deberá agregar un elemento nuevo sugerido como Issue por otro compañero. 
 
 Deberán desarrollarlo por separado e incluirlos al proyecto utilizando Pull Requests que refieran al issue del elemento correspondiente. Utilizando keywords pueden cerrar el issue. Ver [aquí](https://help.github.com/en/articles/closing-issues-using-keywords#closing-an-issue-in-the-same-repository) cómo hacerlo.
 
-## Parte III: Agregar un elemento compuesto por otros elementos
+## ✔ Parte III: Agregar un elemento compuesto por otros elementos
 
 Algunos elementos pueden ser creados como la composición de otros dos elementos, que aumentan sus capacidades de ataque y/o defensa al usarse.
 
@@ -77,7 +77,7 @@ Agreguen un item compuesto por otros dos. Si no se les ocurre ninguna idea origi
 
 Creen el elemento _Guante de Poder_, que por sí mismo no tiene ningún efecto, pero su poder aumenta por cada _Gema_ que se le agrega. Las Gemas <ins>no son elementos que un persona pueda adquirir directamente</ins>. Solamente funcionan cuando son puestas en un Guante de Poder.
 
-## Parte V: Traigan a los [Trolls](https://lotr.fandom.com/wiki/Trolls)
+## ✔ Parte V: Traigan a los [Trolls](https://lotr.fandom.com/wiki/Trolls)
 
 Agreguen el nuevo tipo de personaje Troll, que nace con un palo que les permite atacar, y una coraza que los proteje de los ataques.
 
